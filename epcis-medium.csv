@@ -1,0 +1,2501 @@
+event_id,event_type,action,biz_step,epc,document
+evt-0441419900,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.689278.8625,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:12926093-3339-5645"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.689278.8625""
+  ]
+}"
+evt-7715448882,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.228293.7891,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:15289035-8486-1398"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.228293.7891""
+  ]
+}"
+evt-2700429043,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.354902.2797,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:42284227-4021-2864"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.354902.2797""
+  ]
+}"
+evt-9060530064,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.576680.3180,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:94674341-7029-0128"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.576680.3180""
+  ]
+}"
+evt-3140153236,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.719917.2618,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:97676566-5455-4357"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.719917.2618""
+  ]
+}"
+evt-1129997945,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.656414.4371,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:40930445-1942-8320"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.656414.4371""
+  ]
+}"
+evt-7894383931,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.897194.5561,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:18843766-0413-2761"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.897194.5561""
+  ]
+}"
+evt-3239801327,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.953788.8691,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:07337249-0488-5892"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.953788.8691""
+  ]
+}"
+evt-0751996986,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.178111.1008,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:95978609-9345-4778"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.178111.1008""
+  ]
+}"
+evt-1481573263,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.141878.4064,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:42160868-1603-3692"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.141878.4064""
+  ]
+}"
+evt-3209829615,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.432898.4024,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:65894255-7995-4467"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.432898.4024""
+  ]
+}"
+evt-0548845046,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.049220.8124,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:48721912-1834-9235"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.049220.8124""
+  ]
+}"
+evt-2863699465,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.698591.9868,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:47336915-5363-5084"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.698591.9868""
+  ]
+}"
+evt-2042911784,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.768278.1344,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:90036328-0390-9739"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.768278.1344""
+  ]
+}"
+evt-3036290547,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.733159.3076,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:89359536-8194-8684"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.733159.3076""
+  ]
+}"
+evt-1823582616,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.129729.8203,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:30074480-3386-8421"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.129729.8203""
+  ]
+}"
+evt-2538627040,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.739016.7818,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:27968499-1519-6577"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.739016.7818""
+  ]
+}"
+evt-1171657572,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.121090.5728,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:92228883-3088-9333"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.121090.5728""
+  ]
+}"
+evt-9441107577,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.587619.2163,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:12344219-7203-6192"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.587619.2163""
+  ]
+}"
+evt-3054575774,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.317142.9706,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:78770597-6750-2459"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.317142.9706""
+  ]
+}"
+evt-7066838849,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.352011.7446,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:44727424-6535-4245"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.352011.7446""
+  ]
+}"
+evt-0403426173,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.457112.8622,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:58690874-4002-6003"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.457112.8622""
+  ]
+}"
+evt-1957974365,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.365231.3972,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:48409177-1843-9520"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.365231.3972""
+  ]
+}"
+evt-6718712446,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.468030.0799,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:48637881-1373-6429"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.468030.0799""
+  ]
+}"
+evt-9924825544,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.240497.8653,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:48790640-5896-0305"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.240497.8653""
+  ]
+}"
+evt-4112773610,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.996234.6312,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:77793067-9031-1387"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.996234.6312""
+  ]
+}"
+evt-2706460282,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.010271.5504,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:39865071-8780-1165"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.010271.5504""
+  ]
+}"
+evt-6971555796,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.295126.4837,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:51262472-8324-4351"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.295126.4837""
+  ]
+}"
+evt-7460971573,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.229122.1144,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:91260232-7330-6178"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.229122.1144""
+  ]
+}"
+evt-8156415778,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.137566.3476,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:03093492-7749-9867"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.137566.3476""
+  ]
+}"
+evt-1283072492,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.011178.6103,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:51903412-5220-6597"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.011178.6103""
+  ]
+}"
+evt-9272059869,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.288462.3626,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:58658809-9429-7761"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.288462.3626""
+  ]
+}"
+evt-1716251701,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.005071.8649,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:62530708-2392-1217"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.005071.8649""
+  ]
+}"
+evt-8822710388,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.645765.6815,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:49861520-3812-0105"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.645765.6815""
+  ]
+}"
+evt-8664388696,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.442799.3663,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:73737114-8001-7884"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.442799.3663""
+  ]
+}"
+evt-6044761226,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.860624.0994,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:27287907-1084-4840"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.860624.0994""
+  ]
+}"
+evt-2626187931,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.169076.2946,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:14583375-1769-0456"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.169076.2946""
+  ]
+}"
+evt-3401008741,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.415969.3009,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:23189240-8112-2625"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.415969.3009""
+  ]
+}"
+evt-4339520377,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.771469.1218,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:11741924-8949-4359"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.771469.1218""
+  ]
+}"
+evt-9450276321,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.793399.9650,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:47163882-2382-9479"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.793399.9650""
+  ]
+}"
+evt-9749696429,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.246556.6310,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:57944265-8021-7576"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.246556.6310""
+  ]
+}"
+evt-8463050904,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.782150.4068,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:47665842-8247-2131"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.782150.4068""
+  ]
+}"
+evt-9124948538,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.847622.8232,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:77983395-7507-2121"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.847622.8232""
+  ]
+}"
+evt-5232238876,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.936506.7761,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:21401993-7902-3009"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.936506.7761""
+  ]
+}"
+evt-6080302871,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.280293.7309,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:08743333-3338-0035"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.280293.7309""
+  ]
+}"
+evt-0936184333,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.619260.6666,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:77526077-5251-1294"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.619260.6666""
+  ]
+}"
+evt-6997214754,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.559765.2360,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:39146077-8577-1694"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.559765.2360""
+  ]
+}"
+evt-0335229237,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.437097.1976,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:59333407-0529-7849"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.437097.1976""
+  ]
+}"
+evt-0175988485,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.294793.3712,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:70984987-2092-2381"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.294793.3712""
+  ]
+}"
+evt-4091980151,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.604113.4628,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:59199605-6301-3448"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.604113.4628""
+  ]
+}"
+evt-2988223831,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.921209.2847,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:80837485-1423-4121"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.921209.2847""
+  ]
+}"
+evt-3636111389,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.532420.2921,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:21241573-9145-3500"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.532420.2921""
+  ]
+}"
+evt-6887650936,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.461952.9032,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:51400062-4668-2738"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.461952.9032""
+  ]
+}"
+evt-3552898429,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.841618.1150,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:65881243-9302-4007"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.841618.1150""
+  ]
+}"
+evt-3330408009,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.637049.1198,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:24134303-3183-7336"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.637049.1198""
+  ]
+}"
+evt-4929102298,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.954661.4752,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:47527561-6648-0986"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.954661.4752""
+  ]
+}"
+evt-9929140087,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.650122.9553,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:70756500-9369-4855"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.650122.9553""
+  ]
+}"
+evt-7434183921,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.812028.9283,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:95953367-9789-0883"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.812028.9283""
+  ]
+}"
+evt-7172994730,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.113712.1365,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:41505573-3955-4903"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.113712.1365""
+  ]
+}"
+evt-9617089603,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.260741.2894,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:10008822-0911-8255"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.260741.2894""
+  ]
+}"
+evt-9948075189,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.032427.6900,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:28336770-8433-5548"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.032427.6900""
+  ]
+}"
+evt-5630410405,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.717285.4656,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:83833027-9546-2339"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.717285.4656""
+  ]
+}"
+evt-6304716992,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.675856.0627,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:66478408-7452-3035"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.675856.0627""
+  ]
+}"
+evt-9143071132,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.615363.8887,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:10194895-6169-1170"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.615363.8887""
+  ]
+}"
+evt-6043168589,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.903190.0744,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:86161869-4253-9085"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.903190.0744""
+  ]
+}"
+evt-9652738763,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.128896.5707,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:26197223-8341-4661"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.128896.5707""
+  ]
+}"
+evt-8848319225,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.363008.0969,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:00091653-1496-8352"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.363008.0969""
+  ]
+}"
+evt-1760106020,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.850330.8603,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:63758223-9318-9307"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.850330.8603""
+  ]
+}"
+evt-8399147559,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.332016.9288,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:76095661-1537-8770"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.332016.9288""
+  ]
+}"
+evt-4422098686,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.866968.8014,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:07331758-1423-5979"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.866968.8014""
+  ]
+}"
+evt-2976595316,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.036647.5248,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:10868465-5739-9816"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.036647.5248""
+  ]
+}"
+evt-4600924969,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.390300.4983,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:66626658-6315-9149"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.390300.4983""
+  ]
+}"
+evt-1219160847,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.145863.1649,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:64126061-5109-0505"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.145863.1649""
+  ]
+}"
+evt-9651502943,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.438120.9552,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:83913445-7939-0477"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.438120.9552""
+  ]
+}"
+evt-8209657208,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.702310.0952,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:22255039-5331-0346"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.702310.0952""
+  ]
+}"
+evt-2168432213,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.720012.2925,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:88071675-5115-4329"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.720012.2925""
+  ]
+}"
+evt-9452726817,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.703011.3038,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:98735339-8873-7876"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.703011.3038""
+  ]
+}"
+evt-2398340160,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.114213.0403,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:12320662-8430-3490"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.114213.0403""
+  ]
+}"
+evt-4536438538,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.156613.7104,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:40775752-1938-0196"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.156613.7104""
+  ]
+}"
+evt-9445867174,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.255117.8235,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:40832583-4031-3032"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.255117.8235""
+  ]
+}"
+evt-9977504239,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.046690.2263,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:46581925-6307-3066"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.046690.2263""
+  ]
+}"
+evt-1712935374,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.336921.9043,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:86299371-3641-9054"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.336921.9043""
+  ]
+}"
+evt-7558027200,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.409810.9636,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:03125390-9179-3824"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.409810.9636""
+  ]
+}"
+evt-1775129140,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.719721.8541,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:34466077-8421-1265"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.719721.8541""
+  ]
+}"
+evt-2902320184,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.785049.4640,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:77970583-3468-6010"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.785049.4640""
+  ]
+}"
+evt-9809107115,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.840634.0099,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:40012601-4463-3389"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.840634.0099""
+  ]
+}"
+evt-8507728969,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.916444.9374,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:28744860-6566-4856"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.916444.9374""
+  ]
+}"
+evt-7447956724,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.838446.4694,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:94348952-1262-8926"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.838446.4694""
+  ]
+}"
+evt-8714224408,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.768882.0724,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:80250823-1544-5018"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.768882.0724""
+  ]
+}"
+evt-4155327794,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.336643.0778,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:28422831-2812-1675"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.336643.0778""
+  ]
+}"
+evt-5786226997,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.928539.5142,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:23089716-7382-0902"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.928539.5142""
+  ]
+}"
+evt-5552968022,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.222812.6608,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:28080692-5569-9987"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.222812.6608""
+  ]
+}"
+evt-7457833141,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.659090.8806,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:17508447-9752-0976"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.659090.8806""
+  ]
+}"
+evt-7162987029,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.187028.5171,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:12774484-7460-0291"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.187028.5171""
+  ]
+}"
+evt-2608050587,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.425120.6854,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:92982738-3763-0836"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.425120.6854""
+  ]
+}"
+evt-5775302793,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.875561.7004,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:06938054-5991-9865"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.875561.7004""
+  ]
+}"
+evt-9034192173,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.429302.7548,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:31141940-9939-5894"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.429302.7548""
+  ]
+}"
+evt-2993643984,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.583274.7998,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:05262451-1079-3538"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.583274.7998""
+  ]
+}"
+evt-5236674444,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.054331.3866,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:89053536-2131-0066"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.054331.3866""
+  ]
+}"
+evt-5912498942,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.693846.7346,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:22772088-3124-9507"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.693846.7346""
+  ]
+}"
+evt-3380335814,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.976637.6582,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:98889533-6216-8112"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.976637.6582""
+  ]
+}"
+evt-2320825040,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.692460.2439,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:93904236-4310-0515"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.692460.2439""
+  ]
+}"
+evt-4811645820,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.251141.4938,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:45194863-0075-9985"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.251141.4938""
+  ]
+}"
+evt-6671815787,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.715430.6404,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:41988019-2075-2424"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.715430.6404""
+  ]
+}"
+evt-2264042008,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.124967.3230,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:34291626-4895-1957"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.124967.3230""
+  ]
+}"
+evt-9231934262,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.094695.5834,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:78495433-6907-2853"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.094695.5834""
+  ]
+}"
+evt-7980021914,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.750511.2523,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:94887623-3728-0032"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.750511.2523""
+  ]
+}"
+evt-3041591383,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.808333.6727,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:90451439-7321-5907"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.808333.6727""
+  ]
+}"
+evt-5429597278,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.423969.8929,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:92441073-0024-7789"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.423969.8929""
+  ]
+}"
+evt-1742969519,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.006172.4956,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:84696178-7818-0296"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.006172.4956""
+  ]
+}"
+evt-5573099523,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.685115.4412,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:75677590-5440-1143"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.685115.4412""
+  ]
+}"
+evt-6672657859,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.504188.6676,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:95362213-8471-6442"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.504188.6676""
+  ]
+}"
+evt-2045018912,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.527083.9675,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:11115771-0308-7421"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.527083.9675""
+  ]
+}"
+evt-2821391224,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.291713.7738,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:00629267-9408-4914"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.291713.7738""
+  ]
+}"
+evt-8692197368,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.162158.8652,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:28303084-6314-7722"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.162158.8652""
+  ]
+}"
+evt-1143826326,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.812740.9237,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:83541218-0640-5795"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.812740.9237""
+  ]
+}"
+evt-9440419872,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.112664.2693,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:28216708-9154-7135"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.112664.2693""
+  ]
+}"
+evt-7886321965,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.452946.5676,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:66178300-5313-6047"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.452946.5676""
+  ]
+}"
+evt-1468587394,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.677380.5165,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:45650600-1157-5330"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.677380.5165""
+  ]
+}"
+evt-8136560240,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.043934.1430,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:13058755-6587-7348"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.043934.1430""
+  ]
+}"
+evt-2256501757,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.376782.6711,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:75720859-0635-5645"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.376782.6711""
+  ]
+}"
+evt-8028047745,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.006549.7611,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:83708628-7194-2105"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.006549.7611""
+  ]
+}"
+evt-9021808448,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.323934.6445,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:09989280-2621-5605"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.323934.6445""
+  ]
+}"
+evt-5252806392,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.760937.4446,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:40909989-8157-2863"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.760937.4446""
+  ]
+}"
+evt-4842155544,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.975566.1497,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:87775053-7858-2228"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.975566.1497""
+  ]
+}"
+evt-7281283066,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.892152.2576,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:11169397-3399-7913"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.892152.2576""
+  ]
+}"
+evt-0889778606,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.446294.6160,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:66499938-2319-6779"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.446294.6160""
+  ]
+}"
+evt-2107805549,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.034316.1575,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:54655995-4967-6983"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.034316.1575""
+  ]
+}"
+evt-1550361248,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.143659.8113,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:34622136-9074-6758"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.143659.8113""
+  ]
+}"
+evt-2720875659,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.508873.7386,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:23917973-7804-3049"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.508873.7386""
+  ]
+}"
+evt-2880262172,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.314762.9159,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:23479206-6692-9044"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.314762.9159""
+  ]
+}"
+evt-2423226695,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.073410.3241,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:88649902-3464-5177"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.073410.3241""
+  ]
+}"
+evt-3139646591,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.504596.7145,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:70616648-4249-5636"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.504596.7145""
+  ]
+}"
+evt-7138215114,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.863148.6154,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:23953254-2757-4600"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.863148.6154""
+  ]
+}"
+evt-2362161114,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.573027.1005,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:52730149-3959-7524"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.573027.1005""
+  ]
+}"
+evt-1121796074,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.867709.3152,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:06037494-0362-7395"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.867709.3152""
+  ]
+}"
+evt-0031818069,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.918127.1407,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:69753737-2936-6212"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.918127.1407""
+  ]
+}"
+evt-4592084435,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.843389.1690,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:28597640-1844-7765"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.843389.1690""
+  ]
+}"
+evt-7779724645,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.894568.8195,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:84200987-4915-8292"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.894568.8195""
+  ]
+}"
+evt-6567912516,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.361805.6568,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:26679234-5857-4152"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.361805.6568""
+  ]
+}"
+evt-7520541346,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.966135.2678,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:98111494-8739-5920"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.966135.2678""
+  ]
+}"
+evt-3948854188,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.105650.9458,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:48197547-7841-3916"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.105650.9458""
+  ]
+}"
+evt-8727170155,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.604163.9088,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:84227326-9783-9007"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.604163.9088""
+  ]
+}"
+evt-6713506064,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.422696.6043,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:35324850-3467-5168"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.422696.6043""
+  ]
+}"
+evt-0909941489,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.825018.3960,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:72726293-3318-1980"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.825018.3960""
+  ]
+}"
+evt-8786822915,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.746681.0410,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:77146066-0592-1942"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.746681.0410""
+  ]
+}"
+evt-6357630813,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.004821.4564,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:13113417-7823-2364"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.004821.4564""
+  ]
+}"
+evt-4692579487,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.007777.5479,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:67242358-2785-3332"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.007777.5479""
+  ]
+}"
+evt-1998642472,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.293281.7174,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:91531949-9394-8349"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.293281.7174""
+  ]
+}"
+evt-0740417415,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.061069.6308,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:92082552-6172-3768"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.061069.6308""
+  ]
+}"
+evt-1914724818,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.085984.9160,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:13613671-0551-2709"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.085984.9160""
+  ]
+}"
+evt-8468811180,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.979776.6917,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:04133401-7324-0122"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.979776.6917""
+  ]
+}"
+evt-1465370635,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.470417.9106,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:76479179-0647-7588"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.470417.9106""
+  ]
+}"
+evt-2483130228,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.692145.6212,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:86401619-8824-2984"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.692145.6212""
+  ]
+}"
+evt-4292439492,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.025523.8645,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:65982127-9345-9283"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.025523.8645""
+  ]
+}"
+evt-3239349129,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.669031.1372,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:65703815-4274-1320"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.669031.1372""
+  ]
+}"
+evt-5030106474,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.816084.2989,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:10764638-3863-8248"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.816084.2989""
+  ]
+}"
+evt-2261136592,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.687517.0033,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:03468395-8321-4512"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.687517.0033""
+  ]
+}"
+evt-4661308690,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.923622.3202,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:10337605-9204-3271"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.923622.3202""
+  ]
+}"
+evt-2199266018,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.287623.4636,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:91546096-2528-8955"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.287623.4636""
+  ]
+}"
+evt-7463835280,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.983178.9744,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:62231122-9227-8886"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.983178.9744""
+  ]
+}"
+evt-8279776429,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.481299.8512,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:16689374-8568-7360"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.481299.8512""
+  ]
+}"
+evt-8563799302,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.646126.2890,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:15931457-3859-3009"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.646126.2890""
+  ]
+}"
+evt-1160885834,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.337526.3036,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:08104077-9211-9848"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.337526.3036""
+  ]
+}"
+evt-1124681153,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.653939.1951,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:21291086-8120-4004"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.653939.1951""
+  ]
+}"
+evt-6797146915,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.678058.4684,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:99549908-9063-6396"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.678058.4684""
+  ]
+}"
+evt-1365233648,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.528403.5733,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:59319137-5809-0788"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.528403.5733""
+  ]
+}"
+evt-9125043339,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.851652.0203,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:10024290-1871-2437"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.851652.0203""
+  ]
+}"
+evt-7086646986,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.946943.5230,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:73425244-3211-5826"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.946943.5230""
+  ]
+}"
+evt-7437410383,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.791991.1539,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:98018828-8481-9492"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.791991.1539""
+  ]
+}"
+evt-8426889453,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.137571.3901,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:91243992-2957-6956"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.137571.3901""
+  ]
+}"
+evt-7470929285,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.419812.9574,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:29508043-5654-2812"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.419812.9574""
+  ]
+}"
+evt-8655547288,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.018975.1382,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:45060628-7970-1593"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.018975.1382""
+  ]
+}"
+evt-2282545620,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.954755.2378,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:54744127-4047-4414"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.954755.2378""
+  ]
+}"
+evt-1156939202,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.138392.3214,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:83121626-0312-0085"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.138392.3214""
+  ]
+}"
+evt-6738084197,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.862407.4907,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:52825430-4593-3566"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.862407.4907""
+  ]
+}"
+evt-1616098722,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.677873.8987,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:63329239-5161-5170"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.677873.8987""
+  ]
+}"
+evt-3074075931,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.482376.0446,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:13932944-8519-0281"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.482376.0446""
+  ]
+}"
+evt-1322212270,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.208973.5913,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:28294085-0244-6392"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.208973.5913""
+  ]
+}"
+evt-1135274113,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.973765.6025,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:60898774-9416-9288"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.973765.6025""
+  ]
+}"
+evt-9833463317,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.457662.1172,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:67871944-8706-4495"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.457662.1172""
+  ]
+}"
+evt-3573962227,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.449371.3421,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:78647530-8900-2545"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.449371.3421""
+  ]
+}"
+evt-1133543986,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.719355.0980,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:18271799-1882-3159"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.719355.0980""
+  ]
+}"
+evt-8708230228,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.221729.6274,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:45775327-0630-7166"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.221729.6274""
+  ]
+}"
+evt-5749432776,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.439243.8194,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:21090854-4985-0607"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.439243.8194""
+  ]
+}"
+evt-5172374944,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.843371.4784,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:24595077-6978-5418"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.843371.4784""
+  ]
+}"
+evt-6203996767,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.557151.4265,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:56120507-7437-8081"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.557151.4265""
+  ]
+}"
+evt-4282358302,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.676219.2879,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:54603161-4090-2981"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.676219.2879""
+  ]
+}"
+evt-1257726452,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.059657.8727,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:41073167-2384-3717"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.059657.8727""
+  ]
+}"
+evt-9851688617,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.204797.8870,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:27676035-7639-0876"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.204797.8870""
+  ]
+}"
+evt-4553168316,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.642129.2118,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:70038120-6200-7976"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.642129.2118""
+  ]
+}"
+evt-0273108663,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.647789.4035,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:72374795-0088-8334"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.647789.4035""
+  ]
+}"
+evt-9250263504,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.471779.1872,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:95758477-1153-5120"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.471779.1872""
+  ]
+}"
+evt-6809832993,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.644814.8565,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:54582919-3932-8437"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.644814.8565""
+  ]
+}"
+evt-2325283343,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.048868.6645,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:59739294-2419-8829"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.048868.6645""
+  ]
+}"
+evt-1260674815,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.207756.6062,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:56817194-2089-1773"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.207756.6062""
+  ]
+}"
+evt-8434932573,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.044375.0817,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:23729347-1002-9152"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.044375.0817""
+  ]
+}"
+evt-4933874713,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.167471.2946,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:03936099-5878-8775"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.167471.2946""
+  ]
+}"
+evt-3359415978,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.371492.0783,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:39301188-6681-3418"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.371492.0783""
+  ]
+}"
+evt-7173996601,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.782719.5997,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:88971710-8262-9547"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.782719.5997""
+  ]
+}"
+evt-2667849314,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.796851.2956,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:73155529-9235-1408"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.796851.2956""
+  ]
+}"
+evt-7516039921,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.508711.3711,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:28196050-5809-4508"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.508711.3711""
+  ]
+}"
+evt-2030422099,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.902004.7480,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:75454333-3300-1851"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.902004.7480""
+  ]
+}"
+evt-2039751183,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.230200.3410,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:19948979-6514-0892"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.230200.3410""
+  ]
+}"
+evt-8317591112,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.090705.5014,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:13229131-4749-7841"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.090705.5014""
+  ]
+}"
+evt-3744505993,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.220144.7952,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:44497054-1039-5831"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.220144.7952""
+  ]
+}"
+evt-2116071922,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.174195.1112,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:09444243-7672-0057"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.174195.1112""
+  ]
+}"
+evt-2105170518,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.478352.7964,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:51179307-0680-4265"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.478352.7964""
+  ]
+}"
+evt-9200156158,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.719151.2046,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:62179063-6018-9598"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.719151.2046""
+  ]
+}"
+evt-2438712369,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.845441.5386,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:34553142-5028-2733"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.845441.5386""
+  ]
+}"
+evt-1814185279,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.271055.5666,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:18351076-0449-2124"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.271055.5666""
+  ]
+}"
+evt-3508198934,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.552191.7264,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:89693955-0967-0728"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.552191.7264""
+  ]
+}"
+evt-0193749733,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.100342.6743,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:46679052-8491-6517"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.100342.6743""
+  ]
+}"
+evt-1694518125,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.001807.9122,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:30309557-2379-0095"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.001807.9122""
+  ]
+}"
+evt-6178910701,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.167645.3202,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:94062213-0815-8859"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.167645.3202""
+  ]
+}"
+evt-7397462709,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.668826.3164,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:85280065-5922-6125"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.668826.3164""
+  ]
+}"
+evt-8023656311,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.822336.7278,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:11920689-9255-6405"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.822336.7278""
+  ]
+}"
+evt-7113574019,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.695952.8070,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:73436748-0066-5464"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.695952.8070""
+  ]
+}"
+evt-5073087400,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.261872.5812,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:59071147-4901-5913"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.261872.5812""
+  ]
+}"
+evt-2524056469,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.651656.6405,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:04584334-5875-3752"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.651656.6405""
+  ]
+}"
+evt-1962979319,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.612381.0144,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:47134012-9525-8859"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.612381.0144""
+  ]
+}"
+evt-0796316373,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.134347.6720,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:83725562-9583-2046"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.134347.6720""
+  ]
+}"
+evt-9359311497,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.758658.9623,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:98506929-7668-6802"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.758658.9623""
+  ]
+}"
+evt-0256285275,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.551290.0615,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:86128604-2590-6266"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.551290.0615""
+  ]
+}"
+evt-7624194429,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.629612.1931,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:82304576-0957-6194"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.629612.1931""
+  ]
+}"
+evt-1365289237,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.346429.8636,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:07243929-8297-6129"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.346429.8636""
+  ]
+}"
+evt-1237390462,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.929317.0626,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:13689474-5171-2300"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.929317.0626""
+  ]
+}"
+evt-2958419188,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.863488.5303,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:62925535-3169-8423"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.863488.5303""
+  ]
+}"
+evt-9518974676,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.099535.4202,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:45094817-7231-1109"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.099535.4202""
+  ]
+}"
+evt-8557077201,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.004507.8424,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:56629777-8591-3234"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.004507.8424""
+  ]
+}"
+evt-0376893090,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.828824.1577,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:01031142-2941-0121"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.828824.1577""
+  ]
+}"
+evt-9708571460,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.031183.1102,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:37955522-4081-2919"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.031183.1102""
+  ]
+}"
+evt-2481805301,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.220573.0496,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:19206856-2145-7625"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.220573.0496""
+  ]
+}"
+evt-9685516188,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.124820.1949,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:12842763-0180-3584"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.124820.1949""
+  ]
+}"
+evt-4840729477,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.380276.2311,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:61927154-1998-8124"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.380276.2311""
+  ]
+}"
+evt-7714729376,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.850377.9654,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:09086581-4738-8161"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.850377.9654""
+  ]
+}"
+evt-7898817921,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.578830.4932,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:88132032-6515-6675"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.578830.4932""
+  ]
+}"
+evt-7665597346,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.142495.2256,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:81905869-2960-1971"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.142495.2256""
+  ]
+}"
+evt-0602197475,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.353891.6060,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:58971866-3261-8888"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.353891.6060""
+  ]
+}"
+evt-0257597607,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.068119.6534,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:30739384-8284-0333"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.068119.6534""
+  ]
+}"
+evt-0573819279,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.604273.6852,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:44662621-8046-8006"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.604273.6852""
+  ]
+}"
+evt-1625418458,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.997072.8865,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:57520240-8599-5505"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.997072.8865""
+  ]
+}"
+evt-2123130387,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.726660.9618,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:30538507-6958-9053"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.726660.9618""
+  ]
+}"
+evt-3842577716,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.376604.7344,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:32335940-1433-3190"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.376604.7344""
+  ]
+}"
+evt-4598897750,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.377939.8483,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:47882983-9356-3426"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.377939.8483""
+  ]
+}"
+evt-3612720667,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.769282.2894,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:50952552-0494-1096"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.769282.2894""
+  ]
+}"
+evt-4682710058,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.474018.3510,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:99065596-4121-0050"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.474018.3510""
+  ]
+}"
+evt-8600920064,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.223571.0791,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:16897163-9715-4890"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.223571.0791""
+  ]
+}"
+evt-1993681752,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.833969.3783,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:79954706-2013-2920"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.833969.3783""
+  ]
+}"
+evt-3739634504,ObjectEvent,OBSERVE,urn:epcglobal:cbv:bizstep:receiving,urn:epc:id:sgtin:0614141.062968.6704,"{
+  ""@context"": ""https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld"",
+  ""type"": ""ObjectEvent"",
+  ""eventID"": ""urn:uuid:24176925-4433-9553"",
+  ""action"": ""OBSERVE"",
+  ""bizStep"": ""urn:epcglobal:cbv:bizstep:receiving"",
+  ""epcList"": [
+    ""urn:epc:id:sgtin:0614141.062968.6704""
+  ]
+}"
