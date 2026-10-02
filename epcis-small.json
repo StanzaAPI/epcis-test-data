@@ -1,0 +1,244 @@
+{
+  "name": "EPCIS Test Data",
+  "description": "ObjectEvent records in EPCIS 2.0 JSON-LD for track-and-trace tests, with synthetic SGTIN EPCs.",
+  "source": "https://stanzaapi.com/datasets/epcis",
+  "license": "CC0-1.0",
+  "validity": "structurally-synthetic",
+  "size": "small",
+  "count": 25,
+  "columns": [
+    "event_id",
+    "event_type",
+    "action",
+    "biz_step",
+    "epc",
+    "document"
+  ],
+  "rows": [
+    {
+      "event_id": "evt-9465880307",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.255020.6152",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:89360024-5604-4059\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.255020.6152\"\n  ]\n}",
+      "row": 1
+    },
+    {
+      "event_id": "evt-9412548276",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.264920.2040",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:34952011-5218-5578\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.264920.2040\"\n  ]\n}",
+      "row": 2
+    },
+    {
+      "event_id": "evt-6148071378",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.801601.2579",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:28632468-5516-5047\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.801601.2579\"\n  ]\n}",
+      "row": 3
+    },
+    {
+      "event_id": "evt-2737947878",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.343103.3325",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:78674238-3665-6725\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.343103.3325\"\n  ]\n}",
+      "row": 4
+    },
+    {
+      "event_id": "evt-2661957275",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.486722.4527",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:25627258-9211-8957\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.486722.4527\"\n  ]\n}",
+      "row": 5
+    },
+    {
+      "event_id": "evt-5173144608",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.261875.7679",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:35289159-4070-8310\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.261875.7679\"\n  ]\n}",
+      "row": 6
+    },
+    {
+      "event_id": "evt-6854704634",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.486730.3624",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:99689741-2602-6706\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.486730.3624\"\n  ]\n}",
+      "row": 7
+    },
+    {
+      "event_id": "evt-4516596352",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.638431.3285",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:02888022-8877-0334\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.638431.3285\"\n  ]\n}",
+      "row": 8
+    },
+    {
+      "event_id": "evt-1015057314",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.068692.1502",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:41181501-0576-8242\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.068692.1502\"\n  ]\n}",
+      "row": 9
+    },
+    {
+      "event_id": "evt-7540799943",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.802378.9785",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:09358716-1937-6872\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.802378.9785\"\n  ]\n}",
+      "row": 10
+    },
+    {
+      "event_id": "evt-6805000000",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.444097.5431",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:80092098-8358-1291\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.444097.5431\"\n  ]\n}",
+      "row": 11
+    },
+    {
+      "event_id": "evt-2344823414",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.493169.5843",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:57899766-9126-3791\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.493169.5843\"\n  ]\n}",
+      "row": 12
+    },
+    {
+      "event_id": "evt-4671664182",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.993948.6049",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:62741323-9692-4363\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.993948.6049\"\n  ]\n}",
+      "row": 13
+    },
+    {
+      "event_id": "evt-5025921910",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.060200.3472",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:79704352-2661-4812\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.060200.3472\"\n  ]\n}",
+      "row": 14
+    },
+    {
+      "event_id": "evt-4147309046",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.813125.9351",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:63280266-5106-6978\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.813125.9351\"\n  ]\n}",
+      "row": 15
+    },
+    {
+      "event_id": "evt-3421414435",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.296926.0186",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:24221920-0679-7421\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.296926.0186\"\n  ]\n}",
+      "row": 16
+    },
+    {
+      "event_id": "evt-8589710655",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.995707.9395",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:77762049-5709-1448\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.995707.9395\"\n  ]\n}",
+      "row": 17
+    },
+    {
+      "event_id": "evt-2529111858",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.206725.2645",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:15154449-6227-4120\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.206725.2645\"\n  ]\n}",
+      "row": 18
+    },
+    {
+      "event_id": "evt-8133045294",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.237089.4411",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:12994080-4470-2482\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.237089.4411\"\n  ]\n}",
+      "row": 19
+    },
+    {
+      "event_id": "evt-1700460148",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.456843.3424",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:98825336-1222-4090\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.456843.3424\"\n  ]\n}",
+      "row": 20
+    },
+    {
+      "event_id": "evt-0807625100",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.689474.2200",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:65405441-4087-8643\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.689474.2200\"\n  ]\n}",
+      "row": 21
+    },
+    {
+      "event_id": "evt-6195652803",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.549643.3341",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:54778157-9300-9811\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.549643.3341\"\n  ]\n}",
+      "row": 22
+    },
+    {
+      "event_id": "evt-3611783937",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.336036.2769",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:52130355-9401-2333\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.336036.2769\"\n  ]\n}",
+      "row": 23
+    },
+    {
+      "event_id": "evt-1567830509",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.210220.4794",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:62891044-0496-7976\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.210220.4794\"\n  ]\n}",
+      "row": 24
+    },
+    {
+      "event_id": "evt-2307034730",
+      "event_type": "ObjectEvent",
+      "action": "OBSERVE",
+      "biz_step": "urn:epcglobal:cbv:bizstep:receiving",
+      "epc": "urn:epc:id:sgtin:0614141.997610.7285",
+      "document": "{\n  \"@context\": \"https://ref.gs1.org/standards/epcis/2.0.1/epcis-context.jsonld\",\n  \"type\": \"ObjectEvent\",\n  \"eventID\": \"urn:uuid:77703081-1755-4414\",\n  \"action\": \"OBSERVE\",\n  \"bizStep\": \"urn:epcglobal:cbv:bizstep:receiving\",\n  \"epcList\": [\n    \"urn:epc:id:sgtin:0614141.997610.7285\"\n  ]\n}",
+      "row": 25
+    }
+  ]
+}
